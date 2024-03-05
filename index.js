@@ -16,6 +16,18 @@
 //  I will need to determine how to split all this.
 //  I may need to parse through the word. That will be what I do first.
 //  I will have to research some javascript utilities for any easier way.
+//
+//  Another issue down the line will be to keep punctuation marks safe.
+//  I may need a parser after all
+//
+//  Gameplan
+//
+//  I will create a switch statement to handle how to proceed with encounters.
+//  
+//  I will need to put some thought into this.
+
+
+
 function pigIt(str){
     //Code here
 }
