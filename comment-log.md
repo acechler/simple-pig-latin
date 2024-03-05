@@ -21,10 +21,9 @@ This will hold every comment I had during a specific point during this challenge
 //  Another issue down the line will be to keep punctuation marks safe.
 //  I may need a parser after all
 //
-//  Gameplan
+//  === Gameplan ===
 //
 //  I will create a switch statement to handle how to proceed with encounters.
 //  
 //  I will need to put some thought into this.
-
 ```

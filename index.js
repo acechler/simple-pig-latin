@@ -20,7 +20,7 @@
 //  Another issue down the line will be to keep punctuation marks safe.
 //  I may need a parser after all
 //
-//  Gameplan
+//  === Gameplan ===
 //
 //  I will create a switch statement to handle how to proceed with encounters.
 //  
